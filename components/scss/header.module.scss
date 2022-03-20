@@ -1,0 +1,17 @@
+// Mobile
+.header {
+  display: fixed;
+  top: 0;
+  left: 0;
+  height: 3.5rem;
+  background-color: skyblue;
+  nav {
+    ul
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  // Tablet
+}
+@media screen and (min-width: 1024px) {
+  // PC
+}
